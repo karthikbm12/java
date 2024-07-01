@@ -1,9 +1,8 @@
 public class Course{
-public static void main(String args[]){
-int fees = 12000;
-int gst = 18;
-double totalfees=((12000*0.18)+(12000));
-System.out.println("The total course fees is:"+totalfees);
-
-}                                            
-}
+	public static void coursename(){
+	System.out.println("computer science engineering");
+	}  
+	public static void courseyear(){
+	System.out.println("2nd year");
+	}
+	}
