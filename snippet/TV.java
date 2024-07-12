@@ -1,8 +1,8 @@
-public class Tv{
+public class TV{
 
-public static String name = "Sony";
-public static String brand = "Bravia";
-public static String madeby = "Japan";
+public static String name = "Samsung";
+public static String brand = "lee";
+public static String madeby = "korea";
 public static String quality = "Ultra HD";
 public static String ledType = "QLed";
 
