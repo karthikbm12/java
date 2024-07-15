@@ -1,13 +1,13 @@
-public class TvRunner{
+public class TVRunner{
 
 public static void main(String args[]){
 
-System.out.println("Tv name is:"+Tv.name);
-System.out.println("Tv brand is:"+Tv.brand);
-System.out.println("Tv made by is:"+Tv.madeby);
-System.out.println("Tv quality is:"+Tv.quality);
-System.out.println("Tv ledType is:"+Tv.ledType);
-Tv.television(2.5f,10,10,2024,2002);
+System.out.println("Tv name is:"+TV.name);
+System.out.println("Tv brand is:"+TV.brand);
+System.out.println("Tv made by is:"+TV.madeby);
+System.out.println("Tv quality is:"+TV.quality);
+System.out.println("Tv ledType is:"+TV.ledType);
+TV.television(3.5f,11,12,2024,2012);
 
 }
 
