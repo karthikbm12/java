@@ -1,8 +1,11 @@
 public class Fish{
-		public Fish(){
-	int price = 250;
-		System.out.println("The cost of fish is :"+price);
 
-		}
+	public static void main FishDetails(int number){
+		System.out.prinln("The no of fishes"+number);
 
-}
+	}
+	public static void main FishDetails(String name){}
+	   Sytsem.out.println("The fish name and no is"+name);
+	
+	}
+	}

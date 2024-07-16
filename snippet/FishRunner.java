@@ -1,10 +1,8 @@
-public class FishRunner{
-	public static void main(String args[]){
+pubic class FishRunner{
+public static void main(String args[]){
 
-	new Fish();
-	new Fish();
-	new Fish();
-	new Fish();
-	new Fish();
+	Fish.FishDetails(200);
+	Fish.FishDetails("koi",200);
 	}
-}
+ 
+ }
