@@ -1,12 +1,10 @@
 public class Cat{
-		public static void CatDetails(Sting name){
+		public static void CatDetails(String name){
 		System.out.println("The catdetails are"+name);
-		Cat.CatDetails(6);
-		
-		
+		Cat.CatDetails(36);
 		}
 		public static void CatDetails(int weight){
-		System.out.println("The catweight "+name);
-		Cat.CatDetails(true);
+		System.out.println("The catdetails are :"+weight);
+		Cat.CatDetails("jacky");
 		}
 		}
